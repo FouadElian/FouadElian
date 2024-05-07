@@ -10,8 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[www.linkedin.com/in/fouad-elian-804b58299](https://linkedin.com/in/https://www.linkedin.com/in/fouad-elian-804b58299/)  ![image](https://github.com/FouadElian/FouadElian/assets/157070771/188d1cc5-80b4-4b5e-983c-6062aa4d4406)
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fouad-elian-804b58299/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fouad-elian-804b58299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fouad-elian-804b58299/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
