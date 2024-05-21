@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Software Engineering Student in Montreal/Canada</h3>
 
-- 🌱 I’m currently learning **Java,React and MySQL**
+- 🌱 I’m currently learning **C,React and MySQL**
 
  - 🤝 I’m looking for **an internship for fall 2024**
 
